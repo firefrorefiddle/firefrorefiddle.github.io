@@ -1,0 +1,5 @@
+---
+title: Haskell
+---
+
+Currently, I work mostly with Haskell. Check it out at www.haskell.org!
